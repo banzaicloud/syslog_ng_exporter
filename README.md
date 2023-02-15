@@ -1,3 +1,7 @@
+> # ⚠️ Repository moved
+>
+> New location: https://github.com/kube-logging/syslog_ng_exporter
+
 # Syslog-NG Exporter for Prometheus
 
 Exports syslog-ng statistics via HTTP for Prometheus consumption.
